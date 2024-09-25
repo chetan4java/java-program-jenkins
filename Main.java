@@ -9,6 +9,12 @@ public class Main{
         
         System.out.println("Added New file  ");
         System.out.println("Added second  file  ");
+        System.out.println(" calling student... ");
+
+        Student student = new Student();
+        student.sayHello();;
+        
+
 
         
     }
